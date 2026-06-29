@@ -15,9 +15,9 @@
 I am a passionate **B.Tech Computer Science Engineering** student specializing in **Data Science** at the **University of Petroleum and Energy Studies (UPES)**. I love exploring data, finding patterns, and building intelligent systems that solve real-world problems.
 
 *   🔭 I’m currently working on sharpening my machine learning and data analysis skills.
-*   🌱 I’m currently learning **Advanced Deep Learning** and **Natural Language Processing**.
+*   🌱 Interested in learning more about **Advanced Deep Learning** and **Natural Language Processing**.
 *   💬 Ask me about **Python, Machine Learning, and Data Analytics**.
-*   💭 My philosophy: *learning and growth stays forever!*
+*   💭 I believe that *learning and growth stays forever!*
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aastha-baheti-900b732a1/)
 
 ---
@@ -75,8 +75,7 @@ I am a passionate **B.Tech Computer Science Engineering** student specializing i
 📂 **[Annsetu](https://github.com/aasthaa1612/Annsetu)**
 *   A responsive web design project styled with custom CSS to build clean, user-friendly frontend layouts.
 
-📂 **[DCN Projects](https://github.com/aasthaa1612/DCN)**
-*   Data Communications and Networking scripts and implementations using Python.
+
 
 ---
 
@@ -92,13 +91,6 @@ skills = {
 
 ---
 
-## 📊 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aasthaa1612&theme=radical&column=7" alt="aasthaa1612 trophies" />
-</p>
-
----
 
 ## 📈 GitHub Statistics & Streak
 
